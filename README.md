@@ -10,7 +10,7 @@ Instructions for setting up the project environment:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/keerthay/OpAI-Covid19-Analysis/
    ```
 
 2. **Open Google Colab**:
