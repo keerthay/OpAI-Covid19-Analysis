@@ -38,7 +38,10 @@ How to run and use the project:
    - For MLflow UI, run `mlflow ui --backend-store-uri file:///path/to/mlruns` on your local machine.
 
 4. **Docker Setup** :
-5. - The final-op-ai-docker image has been pushed to DockerHub. Here's a reference: ![image](https://github.com/keerthay/OpAI-Covid19-Analysis/assets/77881397/c8b90595-2947-4b35-afab-950987e0f0dc)
+5. - The final-op-ai-docker image has been pushed to DockerHub. Here's a reference:
+   - ![image](https://github.com/keerthay/OpAI-Covid19-Analysis/assets/77881397/2ed7c4d1-d3dd-4910-b7cb-254d98e089f7)
+
+   - ![image](https://github.com/keerthay/OpAI-Covid19-Analysis/assets/77881397/c8b90595-2947-4b35-afab-950987e0f0dc)
 
 
 ## Team
